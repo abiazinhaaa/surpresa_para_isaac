@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Surpresa para o Isaac</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000000;
+            color: #FFFFFF;
+            margin: 0;
+            padding: 0;
+            overflow-x: hidden;
+        }
+
+        header {
+            background-color: #4B0082;
+            padding: 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            color: #FFFFFF;
+            font-size: 3em;
+            margin: 0;
+        }
+
+        nav {
+            background-color: #8A2BE2;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: #FFFFFF;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 1.2em;
+        }
+
+        nav a:hover {
+            color: #FFFFFF;
+        }
+
+        section {
+            padding: 50px;
+        }
+
+        h2 {
+            color: #FFFFFF;
+            font-size: 2.5em;
+            text-align: center;
+        }
+
+        .content-box {
+            background-color: #8A2BE2;
+            padding: 20px;
+            margin: 20px auto;
+            border-radius: 10px;
+            max-width: 800px;
+        }
+
+        .content-box p {
+            font-size: 1.5em;
+            color: #000000;
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        .gallery {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 10px;
+        }
+
+        .gallery img {
+            max-width: 100%;
+            border-radius: 10px;
+            height: auto;
+            width: calc(33% - 20px);
+        }
+
+        footer {
+            background-color: #4B0082;
+            padding: 20px;
+            text-align: center;
+        }
+
+        footer p {
+            color: #FFFFFF;
+            margin: 0;
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Nosso Cantinho Especial</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#sobre">Sobre</a></li>
+            <li><a href="#contato">Contato</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="home">
+            <h2>Home</h2>
+            <div class="content-box">
+                <p>Bem-vindo ao nosso cantinho especial. Aqui, celebro o amor que tenho por você, Isaac.</p>
+            </div>
+        </section>
+
+        <section id="sobre">
+            <h2>Sobre</h2>
+            <div class="content-box">
+                <p>Este site foi criado como uma surpresa, para mostrar como você é especial para mim.</p>
+            </div>
+        </section>
+
+        <section id="contato">
+            <h2>Contato</h2>
+            <div class="content-box">
+                <p>Entre em contato comigo sempre que quiser. Estarei sempre aqui para você.</p>
+            </div>
+        </section>
+
+        <section class="gallery">
+            <img src="imagem1.jpg" alt="Imagem 1">
+            <img src="imagem2.jpg" alt="Imagem 2">
+            <img src="imagem3.jpg" alt="Imagem 3">
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Nosso Cantinho Especial. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
+        <a href="#eu">Eu</a>
+        <a href="#voce">Você</a>
+        <a href="#sobre-nos">Sobre NÓS</a>
+        <a href="#declaracoes">Declarações</a>
+        <a href="#blog">Blog</a>
+    </nav>
+
+    <section id="eu">
+        <h2>Eu</h2>
+        <div class="content-box">
+            <p>Oi, meu amor! Isaac,<br><br>
+Eu sei que parece exagero quando eu digo que minha vida era cinza antes de você, mas é a mais pura verdade. Antes de você aparecer, tudo era tão sem cor, tão sem graça. Os dias passavam arrastados, como se o mundo estivesse sempre nublado, mesmo nos dias de sol. As coisas que deviam me trazer alegria pareciam vazias, como se faltasse algo, como se eu estivesse esperando por algo que eu nem sabia que existia. Eu não gostava do meu próprio nome. O som dele me parecia estranho, como se não fosse realmente meu, como se ele não fizesse sentido em minha vida. Eu achava que não combinava comigo, com quem eu era ou com quem eu queria ser. Era como se eu estivesse desconectada de mim mesma, como se eu estivesse vivendo uma vida que não era realmente minha. Tudo parecia estar fora do lugar, como se o quebra-cabeça da minha vida tivesse várias peças faltando. Mas então, você apareceu. E tudo mudou. Foi como se alguém tivesse finalmente encaixado a peça que faltava. De repente, o mundo não era mais cinza. O céu se abriu e revelou cores que eu nem sabia que existiam. As coisas mais simples – o brilho do sol, o cheiro da chuva, o som do vento – de repente, tudo tinha mais vida, mais cor, mais significado. Eu comecei a ver beleza em tudo, e comecei a sentir que a vida realmente valia a pena. Você trouxe cor para os meus dias, trouxe luz para a minha escuridão. Você me deu uma razão para viver, algo para esperar, algo para acreditar. Eu nunca pensei que alguém pudesse ter tanto impacto na vida de outra pessoa, mas você fez isso comigo. Você fez o que eu achava impossível: me fez gostar do meu próprio nome. Agora, cada vez que ouço alguém chamá-lo, sinto um calor no peito, uma felicidade inexplicável. Porque você me mostrou que eu sou mais do que eu pensava que era, que a vida é mais do que eu pensava que podia ser. Com você, tudo faz sentido. As cores, os sons, os cheiros, tudo parece ter sido feito para nós dois. Você deu propósito a cada dia, deu alegria a cada momento. Eu já não me sinto perdida, porque sei que tenho você ao meu lado. Você é a razão pela qual eu acordo sorrindo, a razão pela qual eu acredito em um futuro cheio de amor e felicidade. Cada momento ao seu lado é um presente, e eu não posso imaginar minha vida sem você. Eu amo você mais do que palavras podem expressar. Obrigada por colorir os meus dias, por me dar uma razão para viver, por me fazer gostar de mim mesma e da vida que eu tenho com você. Sou apenas uma garota apaixonada que se derrete por você a cada dia mais. Sei que sou emocionada e, às vezes, exagero nas palavras, mas tudo o que digo vem do fundo do meu coração. Nunca imaginei que poderia sentir algo tão profundo por alguém, e aqui estou, tentando expressar tudo isso em palavras, mesmo sabendo que elas nunca serão suficientes.</p>
+        </div>
+    </section>
+
+    <section id="voce">
+        <h2>Você</h2>
+        <div class="content-box">
+            <p>Você é minha luz, meu porto seguro, minha inspiração diária. Isaac, desde que você entrou na minha vida, tudo mudou para melhor. Antes de você, eu me sentia perdida, como se o mundo fosse cinza e eu não gostasse nem do meu próprio nome. Mas você trouxe cor e alegria para os meus dias de uma maneira que eu nunca imaginei ser possível. Seus olhos, seu sorriso, até a maneira como você ri, fazem com que o mundo pare para admirar você, e eu vejo em você uma perfeição que talvez você mesmo não perceba. Para mim, você é incrível exatamente como é, e eu amo cada detalhe seu, do seu jeito de ser ao seu sorriso encantador. Você me mostrou o que é viver com verdade e alegria, e eu nunca poderia pedir algo mais. Eu te amo profundamente, exatamente do jeito que você é. Cada sorriso seu ilumina meu mundo, e cada momento ao seu lado é uma preciosidade que guardo com carinho. Eu amo seu jeito de ser, o modo como me faz rir, como se preocupa comigo. Você é tudo o que sempre sonhei e muito mais. Eu sou tão grata por ter você na minha vida.</p>
+        </div>
+    </section>
+
+    <section id="sobre-nos">
+        <h2>Sobre NÓS</h2>
+        <div class="content-box">
+            <p>Nós dois juntos somos a prova de que o amor verdadeiro existe. Isaac, o que nós temos é algo que eu nunca soube que precisava até encontrar você. Cada momento que passamos juntos é uma nova descoberta, uma nova razão para sorrir. Juntos, transformamos o ordinário em extraordinário, e cada dia ao seu lado é uma aventura cheia de amor e compreensão. A maneira como nos entendemos sem precisar de palavras, como nossos olhares se encontram e falam mais do que qualquer conversa, é a prova de que o que temos é especial e único. Com você, eu aprendi que a verdadeira felicidade está em compartilhar a vida com alguém que compreende e apoia cada parte de quem somos. Nós somos a prova de que o amor verdadeiro não apenas existe, mas pode ser encontrado nas coisas simples e nas mais grandiosas. Juntos, somos a melhor versão de nós mesmos, e eu não poderia estar mais feliz com a vida que estamos construindo. Eu te amo mais do que posso expressar e mal posso esperar para continuar escrevendo nossa história juntos. Em você encontrei mais do que um namorado; encontrei um companheiro, um amigo, um parceiro para a vida. Nossa história é única, cheia de altos e baixos, mas cada desafio que enfrentamos só fortalece o nosso amor. Não vejo a hora de criar mais memórias ao seu lado e continuar escrevendo essa linda história que é "Nós".</p>
+        </div>
+    </section>
+
+    <section id="declaracoes">
+        <h2>Declarações</h2>
+        <div class="content-box">
+            <p>Eu te amo de um jeito que nunca pensei ser possível. Isaac, desde que nossos caminhos se cruzaram, minha vida ganhou uma nova perspectiva e um brilho que eu nunca conheci antes. Você trouxe uma cor vibrante para os meus dias e uma profundidade de sentimento que eu pensava ser impossível. Cada momento ao seu lado é uma bênção. Você é o meu primeiro e último pensamento de todos os dias. A vida ao seu lado é uma aventura maravilhosa, e eu estou pronta para tudo que vier, desde que seja com você. Prometo te amar, te apoiar, e estar sempre ao seu lado, em cada passo do caminho. Você é, e sempre será, o meu grande amor.</p>
+        </div>
+    </section>
+
+    <section id="blog">
+        <h2>Blog</h2>
+        <div class="content-box">
+            <p>Quando olho para trás e penso em como era minha vida antes de você, parece que vivia em um mundo em preto e branco. Cada dia se arrastava, e eu me sentia como se estivesse faltando algo essencial. Meu próprio nome soava estranho e distante, como se eu não estivesse totalmente conectada a mim mesma. Mas então, você entrou na minha vida e trouxe uma explosão de cores e alegria que eu nunca imaginei ser possível. Desde o momento em que nossos caminhos se cruzaram, tudo mudou. Seu olhar trouxe luz aos meus dias, e seu sorriso tem o poder de parar o tempo e iluminar o ambiente. A maneira como você ri, mesmo quando não percebe o quão encantadora é, adiciona uma melodia especial aos meus dias. Você me mostrou o verdadeiro significado do amor e da felicidade, e eu aprendi que a verdadeira beleza está nas pequenas coisas e nos momentos simples que compartilhamos. A cada dia que passamos juntos, descubro mais sobre você e sobre nós. Nosso amor é uma jornada de descobertas e momentos preciosos, onde cada detalhe revela a profundidade do que sentimos um pelo outro. A forma como nossos corações se entendem sem precisar de palavras é uma prova de que o que temos é especial e único. Vivemos uma história que vai além do que qualquer palavra pode expressar, uma história onde cada instante ao seu lado é uma benção. A nossa vida juntos é uma coleção de momentos mágicos e alegrias compartilhadas, e eu sou eternamente grata por ter você ao meu lado. Com você, cada dia é uma nova oportunidade para celebrar o amor que construímos e para sonhar com o futuro que ainda está por vir. Se eu pudesse capturar a essência do que temos e mostrar ao mundo, eu faria isso sem hesitar. Porque, com você, a vida é cheia de cor, beleza e significado. Cada dia é uma nova página na nossa história, e eu estou ansiosa para ver o que o futuro nos reserva, sabendo que, com você ao meu lado, tudo é mais brilhante e maravilhoso. Obrigada por me mostrar o que é amar e ser amado de verdade. Estou empolgada para continuar essa jornada incrível ao seu lado, descobrindo novas formas de celebrar o amor que compartilhamos e criando memórias que vamos guardar para sempre.</p>
+            <!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Surpresa para Isaac</title>
+    <style>
+        /* Estilos Gerais */
+        body {
+            background-color: #000; /* Fundo preto */
+            color: #fff;
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+
+        /* Botões */
+        .btn {
+            display: inline-block;
+            background-color: #6200ea; /* Roxo */
+            color: #fff;
+            padding: 10px 20px;
+            margin: 10px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 18px;
+            transition: all 0.3s ease;
+        }
+
+        .btn:hover {
+            background-color: #3700b3;
+        }
+
+        /* Estilo para o texto final */
+        #finalMessage {
+            display: none;
+            font-size: 24px;
+            margin-top: 30px;
+            color: #ffeb3b; /* Amarelo */
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Aceita continuar namorando comigo?</h1>
+    <button class="btn" id="yesBtn">Sim</button>
+    <button class="btn" id="noBtn">Não</button>
+
+    <div id="finalMessage">EU TE AMO!!! OBRIGADA POR TUDO</div>
+
+    <script>
+        const noBtn = document.getElementById('noBtn');
+        const yesBtn = document.getElementById('yesBtn');
+        const finalMessage = document.getElementById('finalMessage');
+
+        // Faz o botão "Não" se mover
+        noBtn.addEventListener('mouseover', () => {
+            const offsetX = Math.floor(Math.random() * (window.innerWidth - noBtn.offsetWidth));
+            const offsetY = Math.floor(Math.random() * (window.innerHeight - noBtn.offsetHeight));
+            noBtn.style.position = 'absolute';
+            noBtn.style.left = offsetX + 'px';
+            noBtn.style.top = offsetY + 'px';
+        });
+
+        // Se clicar em "Sim" ou "Não" se move e exibe as opções finais
+        yesBtn.addEventListener('click', () => {
+            finalMessage.style.display = 'block';
+        });
+
+        noBtn.addEventListener('click', () => {
+            noBtn.style.display = 'none';
+            yesBtn.innerHTML = "Claro";
+            yesBtn.insertAdjacentHTML('afterend', '<button class="btn" id="logicalBtn">Lógico</button><button class="btn" id="obviousBtn">Óbvio</button>');
+            document.getElementById('logicalBtn').addEventListener('click', () => finalMessage.style.display = 'block');
+            document.getElementById('obviousBtn').addEventListener('click', () => finalMessage.style.display = 'block');
+        });
+    </script>
+</body>
+</html>
+        </div>
+    </section>
+
+    <section id="galeria">
+        <h2>Galeria de Fotos</h2>
+        <div class="gallery">
+            <img src="https://photos.app.goo.gl/NQuGaNXL6GKMjYxr7" alt="Foto 1">
+            <img src="https://photos.app.goo.gl/wxndDBZGxbh55Fb39" alt="Foto 2">
+            <img src="https://photos.app.goo.gl/6TQV8pHQyydkgAqx6" alt="Foto 3">
+        </div>
+    </section>
+
+    
+    </style>
+</head>
+<body>
+    <div class="declaracao">
+        <h1>Minha Vida, Meu Amor</h1>
+        <p>
+            Desde o momento em que nossos caminhos se cruzaram, eu soube que algo especial havia surgido em minha vida. Você trouxe luz para os meus dias mais sombrios, e cada momento ao seu lado é uma prova de que o amor verdadeiro existe.
+        </p>
+        <p>
+            Eu te amo mais do que palavras podem expressar. Você é o meu primeiro pensamento ao acordar e o último antes de dormir. A cada dia que passa, meu amor por você cresce mais e mais.
+        </p>
+        <p class="signature">
+            Com todo meu amor, <br>
+            Ana Beatriz :)
+        </p>
+    </div>
+</body>
